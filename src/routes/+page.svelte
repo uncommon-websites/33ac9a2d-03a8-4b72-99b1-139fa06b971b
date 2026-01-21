@@ -326,7 +326,7 @@
                     <div class="mt-4 text-sm text-gray-500 leading-relaxed pb-2">
                         {faq.a}
                     </div>
-                {#/if}
+                {/if}
             </div>
           {/each}
       </div>
