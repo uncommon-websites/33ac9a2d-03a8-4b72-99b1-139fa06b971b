@@ -1,5 +1,5 @@
-<script>
-  export let mobileMenuOpen = false;
+<script lang="ts">
+  let mobileMenuOpen = $state(false);
 </script>
 
 <nav class="flex items-center justify-between px-6 py-4 max-w-[1400px] mx-auto w-full text-sm font-medium text-gray-600">
