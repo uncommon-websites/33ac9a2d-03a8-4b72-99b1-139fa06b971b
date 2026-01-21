@@ -4,9 +4,8 @@
 
 <nav class="flex items-center justify-between px-6 py-4 max-w-[1400px] mx-auto w-full text-sm font-medium text-gray-600">
   <div class="flex items-center gap-8">
-    <a href="/" class="text-black font-bold text-lg tracking-tight flex items-center gap-1">
-      <!-- Simple representation of the ElevenLabs logo mark if needed, or just text -->
-      <span>IIElevenLabs</span>
+    <a href="/" class="text-black font-bold text-xl tracking-tight flex items-center gap-1">
+      <span>Delphi AI</span>
     </a>
     
     <div class="hidden lg:flex items-center gap-6">
